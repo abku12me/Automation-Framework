@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="PomTest(failed)">
+    <classes>
+      <class name="vtiger.ContactsTest.POMCreateContactsWithOrgTest">
+        <methods>
+          <include name="acConfig"/>
+          <include name="asConfig"/>
+          <include name="bsConfig"/>
+          <include name="bmConfig"/>
+          <include name="createContactWithOrgTest"/>
+          <include name="amConfig"/>
+          <include name="regional"/>
+          <include name="bcConfig"/>
+        </methods>
+      </class> <!-- vtiger.ContactsTest.POMCreateContactsWithOrgTest -->
+    </classes>
+  </test> <!-- PomTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
