@@ -8,7 +8,7 @@ public class ReadDataFromCmdLine {
 	@Test
 	public void readDataFromCmd()
 	{
-		String BROWSER=System.getProperty("chrome");
+		String BROWSER=System.getProperty("browser");
 		System.out.println(BROWSER);
 		
 		String URL=System.getProperty("url");

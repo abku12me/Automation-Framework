@@ -2,55 +2,115 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[Organization created successfully]]>
+      <![CDATA[click on organization link created successfully]]>
     </line>
     <line>
-      <![CDATA[opportunity created]]>
+      <![CDATA[click on org button from org page created successfully]]>
+    </line>
+    <line>
+      <![CDATA[creating org with org name successfully]]>
+    </line>
+    <line>
+      <![CDATA[organization created successfully]]>
+    </line>
+    <line>
+      <![CDATA[click on contacts created successfully]]>
+    </line>
+    <line>
+      <![CDATA[click on contacts button created successfully]]>
+    </line>
+    <line>
+      <![CDATA[create contacts with last name and org name successfully]]>
+    </line>
+    <line>
+      <![CDATA[contact created successfully]]>
+    </line>
+    <line>
+      <![CDATA[click on opportunity link created successfully]]>
+    </line>
+    <line>
+      <![CDATA[click on opp img created successfully]]>
+    </line>
+    <line>
+      <![CDATA[create opportunity with orgname created successfully]]>
+    </line>
+    <line>
+      <![CDATA[opportunity with orgname created]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-03-22T12:07:41 IST" name="Suite" finished-at="2023-03-22T12:08:24 IST" duration-ms="42851">
+  <suite started-at="2023-03-29T13:28:38 IST" name="Suite" finished-at="2023-03-29T13:29:23 IST" duration-ms="44887">
     <groups>
-      <group name="RegressionSuite">
-        <method signature="CreateOppWithOrgTest.createOppWithOTest()[pri:0, instance:vtiger.createOpportunityWithOrg.CreateOppWithOrgTest@4466af20]" name="createOppWithOTest" class="vtiger.createOpportunityWithOrg.CreateOppWithOrgTest"/>
-      </group> <!-- RegressionSuite -->
+      <group name="SmokeSuite">
+        <method signature="CreateOppWithContactTest.createOppWithContTest()[pri:0, instance:vtiger.createOpportunityWithOrg.CreateOppWithContactTest@4466af20]" name="createOppWithContTest" class="vtiger.createOpportunityWithOrg.CreateOppWithContactTest"/>
+      </group> <!-- SmokeSuite -->
     </groups>
-    <test started-at="2023-03-22T12:07:41 IST" name="Test" finished-at="2023-03-22T12:08:24 IST" duration-ms="42851">
-      <class name="vtiger.createOpportunityWithOrg.CreateOppWithOrgTest">
-        <test-method is-config="true" signature="bsConfig()[pri:0, instance:vtiger.createOpportunityWithOrg.CreateOppWithOrgTest@4466af20]" started-at="2023-03-22T12:07:41 IST" name="bsConfig" finished-at="2023-03-22T12:07:41 IST" duration-ms="11" status="PASS">
+    <test started-at="2023-03-29T13:28:38 IST" name="Test" finished-at="2023-03-29T13:29:23 IST" duration-ms="44887">
+      <class name="vtiger.createOpportunityWithOrg.CreateOppWithContactTest">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:vtiger.createOpportunityWithOrg.CreateOppWithContactTest@4466af20]" started-at="2023-03-29T13:28:38 IST" name="bsConfig" finished-at="2023-03-29T13:28:38 IST" duration-ms="19" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bsConfig -->
-        <test-method is-config="true" signature="bcConfig()[pri:0, instance:vtiger.createOpportunityWithOrg.CreateOppWithOrgTest@4466af20]" started-at="2023-03-22T12:07:42 IST" name="bcConfig" finished-at="2023-03-22T12:07:45 IST" duration-ms="3737" status="PASS">
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:vtiger.createOpportunityWithOrg.CreateOppWithContactTest@4466af20]" started-at="2023-03-29T13:28:38 IST" name="bcConfig" finished-at="2023-03-29T13:28:43 IST" duration-ms="4486" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bcConfig -->
-        <test-method is-config="true" signature="bmConfig()[pri:0, instance:vtiger.createOpportunityWithOrg.CreateOppWithOrgTest@4466af20]" started-at="2023-03-22T12:07:45 IST" name="bmConfig" finished-at="2023-03-22T12:07:55 IST" duration-ms="9938" status="PASS">
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:vtiger.createOpportunityWithOrg.CreateOppWithContactTest@4466af20]" started-at="2023-03-29T13:28:43 IST" name="bmConfig" finished-at="2023-03-29T13:28:47 IST" duration-ms="4048" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bmConfig -->
-        <test-method signature="createOppWithOTest()[pri:0, instance:vtiger.createOpportunityWithOrg.CreateOppWithOrgTest@4466af20]" started-at="2023-03-22T12:07:55 IST" name="createOppWithOTest" finished-at="2023-03-22T12:08:22 IST" duration-ms="26195" status="PASS">
+        <test-method signature="createOppWithContTest()[pri:0, instance:vtiger.createOpportunityWithOrg.CreateOppWithContactTest@4466af20]" started-at="2023-03-29T13:28:47 IST" name="createOppWithContTest" finished-at="2023-03-29T13:29:19 IST" duration-ms="32537" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Organization created successfully]]>
+              <![CDATA[click on organization link created successfully]]>
             </line>
             <line>
-              <![CDATA[opportunity created]]>
+              <![CDATA[click on org button from org page created successfully]]>
+            </line>
+            <line>
+              <![CDATA[creating org with org name successfully]]>
+            </line>
+            <line>
+              <![CDATA[organization created successfully]]>
+            </line>
+            <line>
+              <![CDATA[click on contacts created successfully]]>
+            </line>
+            <line>
+              <![CDATA[click on contacts button created successfully]]>
+            </line>
+            <line>
+              <![CDATA[create contacts with last name and org name successfully]]>
+            </line>
+            <line>
+              <![CDATA[contact created successfully]]>
+            </line>
+            <line>
+              <![CDATA[click on opportunity link created successfully]]>
+            </line>
+            <line>
+              <![CDATA[click on opp img created successfully]]>
+            </line>
+            <line>
+              <![CDATA[create opportunity with orgname created successfully]]>
+            </line>
+            <line>
+              <![CDATA[opportunity with orgname created]]>
             </line>
           </reporter-output>
-        </test-method> <!-- createOppWithOTest -->
-        <test-method is-config="true" signature="amConfig()[pri:0, instance:vtiger.createOpportunityWithOrg.CreateOppWithOrgTest@4466af20]" started-at="2023-03-22T12:08:22 IST" name="amConfig" finished-at="2023-03-22T12:08:23 IST" duration-ms="1902" status="PASS">
+        </test-method> <!-- createOppWithContTest -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:vtiger.createOpportunityWithOrg.CreateOppWithContactTest@4466af20]" started-at="2023-03-29T13:29:19 IST" name="amConfig" finished-at="2023-03-29T13:29:21 IST" duration-ms="1794" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- amConfig -->
-        <test-method is-config="true" signature="acConfig()[pri:0, instance:vtiger.createOpportunityWithOrg.CreateOppWithOrgTest@4466af20]" started-at="2023-03-22T12:08:23 IST" name="acConfig" finished-at="2023-03-22T12:08:24 IST" duration-ms="851" status="PASS">
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:vtiger.createOpportunityWithOrg.CreateOppWithContactTest@4466af20]" started-at="2023-03-29T13:29:21 IST" name="acConfig" finished-at="2023-03-29T13:29:23 IST" duration-ms="1606" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- acConfig -->
-        <test-method is-config="true" signature="asConfig()[pri:0, instance:vtiger.createOpportunityWithOrg.CreateOppWithOrgTest@4466af20]" started-at="2023-03-22T12:08:25 IST" name="asConfig" finished-at="2023-03-22T12:08:25 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:vtiger.createOpportunityWithOrg.CreateOppWithContactTest@4466af20]" started-at="2023-03-29T13:29:23 IST" name="asConfig" finished-at="2023-03-29T13:29:23 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- asConfig -->
-      </class> <!-- vtiger.createOpportunityWithOrg.CreateOppWithOrgTest -->
+      </class> <!-- vtiger.createOpportunityWithOrg.CreateOppWithContactTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
