@@ -3,28 +3,17 @@
 <suite name="Failed suite [Surefire suite]" verbose="0">
   <test thread-count="5" name="Surefire test(failed)" verbose="0">
     <classes>
-      <class name="vtiger.OrganizationsTests.CreateOrgWithMultipleDataTest">
-        <methods>
-          <include name="createOrgWithIndustry"/>
-          <include name="acConfig"/>
-          <include name="asConfig"/>
-          <include name="bsConfig"/>
-          <include name="bmConfig"/>
-          <include name="amConfig"/>
-          <include name="bcConfig"/>
-        </methods>
-      </class> <!-- vtiger.OrganizationsTests.CreateOrgWithMultipleDataTest -->
-      <class name="vtiger.ContactsTest.POMCreateContactsWithOrgTest">
+      <class name="vtiger.CreateVendorWithCampaign$Product.CreateVendorWithCampProductTest">
         <methods>
           <include name="acConfig"/>
           <include name="asConfig"/>
+          <include name="createVenWithCampAndProduct"/>
           <include name="bmConfig"/>
           <include name="bsConfig"/>
           <include name="amConfig"/>
-          <include name="regional"/>
           <include name="bcConfig"/>
         </methods>
-      </class> <!-- vtiger.ContactsTest.POMCreateContactsWithOrgTest -->
+      </class> <!-- vtiger.CreateVendorWithCampaign$Product.CreateVendorWithCampProductTest -->
     </classes>
   </test> <!-- Surefire test(failed) -->
 </suite> <!-- Failed suite [Surefire suite] -->

@@ -1,77 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
   <reporter-output>
-    <line>
-      <![CDATA[click on vendor link created successfully]]>
-    </line>
-    <line>
-      <![CDATA[click on vendor img created successfully]]>
-    </line>
-    <line>
-      <![CDATA[create vendor with GL Account created successfully]]>
-    </line>
-    <line>
-      <![CDATA[Vendor created successfully]]>
-    </line>
-    <line>
-      <![CDATA[product created sucessfully]]>
-    </line>
-    <line>
-      <![CDATA[Campaign created with product]]>
-    </line>
   </reporter-output>
-  <suite started-at="2023-03-29T13:33:55 IST" name="Default suite" finished-at="2023-03-29T13:34:33 IST" duration-ms="37967">
+  <suite started-at="2023-04-05T15:15:40 IST" name="Default suite" finished-at="2023-04-05T15:15:40 IST" duration-ms="11">
     <groups>
     </groups>
-    <test started-at="2023-03-29T13:33:55 IST" name="Default test" finished-at="2023-03-29T13:34:33 IST" duration-ms="37967">
-      <class name="vtiger.CreateVendorWithCampaign$Product.CreateVendorWithCampProductTest">
-        <test-method is-config="true" signature="bsConfig()[pri:0, instance:vtiger.CreateVendorWithCampaign$Product.CreateVendorWithCampProductTest@201a4587]" started-at="2023-03-29T13:33:55 IST" name="bsConfig" finished-at="2023-03-29T13:33:55 IST" duration-ms="5" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- bsConfig -->
-        <test-method is-config="true" signature="bcConfig()[pri:0, instance:vtiger.CreateVendorWithCampaign$Product.CreateVendorWithCampProductTest@201a4587]" started-at="2023-03-29T13:33:55 IST" name="bcConfig" finished-at="2023-03-29T13:33:58 IST" duration-ms="3157" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- bcConfig -->
-        <test-method is-config="true" signature="bmConfig()[pri:0, instance:vtiger.CreateVendorWithCampaign$Product.CreateVendorWithCampProductTest@201a4587]" started-at="2023-03-29T13:33:58 IST" name="bmConfig" finished-at="2023-03-29T13:34:02 IST" duration-ms="4161" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- bmConfig -->
-        <test-method signature="createVenWithCampAndProduct()[pri:0, instance:vtiger.CreateVendorWithCampaign$Product.CreateVendorWithCampProductTest@201a4587]" started-at="2023-03-29T13:34:02 IST" name="createVenWithCampAndProduct" finished-at="2023-03-29T13:34:30 IST" duration-ms="28110" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[click on vendor link created successfully]]>
-            </line>
-            <line>
-              <![CDATA[click on vendor img created successfully]]>
-            </line>
-            <line>
-              <![CDATA[create vendor with GL Account created successfully]]>
-            </line>
-            <line>
-              <![CDATA[Vendor created successfully]]>
-            </line>
-            <line>
-              <![CDATA[product created sucessfully]]>
-            </line>
-            <line>
-              <![CDATA[Campaign created with product]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- createVenWithCampAndProduct -->
-        <test-method is-config="true" signature="amConfig()[pri:0, instance:vtiger.CreateVendorWithCampaign$Product.CreateVendorWithCampProductTest@201a4587]" started-at="2023-03-29T13:34:30 IST" name="amConfig" finished-at="2023-03-29T13:34:32 IST" duration-ms="1801" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- amConfig -->
-        <test-method is-config="true" signature="acConfig()[pri:0, instance:vtiger.CreateVendorWithCampaign$Product.CreateVendorWithCampProductTest@201a4587]" started-at="2023-03-29T13:34:32 IST" name="acConfig" finished-at="2023-03-29T13:34:33 IST" duration-ms="710" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- acConfig -->
-        <test-method is-config="true" signature="asConfig()[pri:0, instance:vtiger.CreateVendorWithCampaign$Product.CreateVendorWithCampProductTest@201a4587]" started-at="2023-03-29T13:34:33 IST" name="asConfig" finished-at="2023-03-29T13:34:33 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- asConfig -->
-      </class> <!-- vtiger.CreateVendorWithCampaign$Product.CreateVendorWithCampProductTest -->
+    <test started-at="2023-04-05T15:15:40 IST" name="Default test" finished-at="2023-04-05T15:15:40 IST" duration-ms="11">
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
