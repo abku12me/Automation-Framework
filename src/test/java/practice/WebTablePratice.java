@@ -35,6 +35,11 @@ public class WebTablePratice {
 		//click on 10th check box
 		
 		driver.findElement(By.xpath("//table[@class='lvt small']/tbody/tr[10]/td/input")).click();
+		
+		driver.close();
+		
 	}
+	
+
 
 }
