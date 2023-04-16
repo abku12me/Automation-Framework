@@ -1,4 +1,5 @@
 practice\createOrganizationslinkpractice.class
+practice\Tokyo.class
 practice\GenericUtilityExcelsheetPractice.class
 vtiger\CreateVendorWithCampaign$Product\CreateTroubleTicketsWithProductAndOrgTest.class
 practice\AssertionPractice.class
@@ -13,16 +14,20 @@ vtiger\ProductsTest\CreateProductWithCampaignTest.class
 practice\DataProviderPractice.class
 practice\ReadDataFromCmdLine.class
 vtiger\ContactsTest\CreateContactsWithOrganizationTest.class
+practice\XpathPractice.class
 practice\GenericPropertyFilePractice.class
 vtiger\createOpportunityWithOrg\CreateOppWithContactTest.class
 practice\RetryAnalyzerPractice.class
+practice\SeleniumGrid.class
 practice\Randomclasspractice.class
 practice\CreateOrganizationDrop2.class
 practice\SampleJDBCExecuteQuery.class
 vtiger\createOpportunityWithOrg\CreateOppWithOrgTest.class
 vtiger\OrganizationsTests\CreateOrganizationTest.class
 practice\WritedataInexcelsheet.class
+practice\Debug.class
 practice\TestNGPractice.class
+practice\WebTablePratice.class
 practice\CreateLeadspractice.class
 practice\GenericMethodspractices.class
 practice\PropertyFilepractice.class
